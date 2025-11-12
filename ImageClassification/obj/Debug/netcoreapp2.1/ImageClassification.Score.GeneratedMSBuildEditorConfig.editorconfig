@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = ImageClassification.Score
+build_property.ProjectDir = D:\cloning\DeepLearning_ImageClassification_TensorFlow\ImageClassification\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

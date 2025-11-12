@@ -1,0 +1,5 @@
+D:\cloning\DeepLearning_ImageClassification_TensorFlow\ImageClassification\obj\Debug\netcoreapp2.1\ImageClassification.Score.csproj.AssemblyReference.cache
+D:\cloning\DeepLearning_ImageClassification_TensorFlow\ImageClassification\obj\Debug\netcoreapp2.1\ImageClassification.Score.GeneratedMSBuildEditorConfig.editorconfig
+D:\cloning\DeepLearning_ImageClassification_TensorFlow\ImageClassification\obj\Debug\netcoreapp2.1\ImageClassification.Score.AssemblyInfoInputs.cache
+D:\cloning\DeepLearning_ImageClassification_TensorFlow\ImageClassification\obj\Debug\netcoreapp2.1\ImageClassification.Score.AssemblyInfo.cs
+D:\cloning\DeepLearning_ImageClassification_TensorFlow\ImageClassification\obj\Debug\netcoreapp2.1\ImageClassification.Score.csproj.CoreCompileInputs.cache
